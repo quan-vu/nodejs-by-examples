@@ -1,0 +1,21 @@
+{
+  "name": "memcached-sample",
+  "version": "1.0.0",
+  "description": "Working with Memcached in NodeJS",
+  "main": "index.js",
+  "author": "Quan Vu",
+  "license": "MIT",
+  "dependencies": {
+    "@types/chai": "^4.3.6",
+    "@types/jest": "^29.5.5",
+    "chai": "^4.3.10",
+    "jest": "^29.7.0",
+    "memcached": "^2.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/memcached": "^2.2.10"
+  }
+}
