@@ -1,0 +1,11 @@
+{
+  "name": "aws-sdk-sample",
+  "version": "1.0.0",
+  "description": "Working with AWS SDK in Nodejs",
+  "main": "index.js",
+  "author": "Quan Vu",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.445.0"
+  }
+}
